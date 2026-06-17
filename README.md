@@ -7,7 +7,7 @@ Graduated from **Centrale Marseille** (a French top-tier Engineering School), I 
 * **Current Focus:** Master implementation of data structures, operating systems fundamentals, and memory management in pure C/C++.
 * **Philosophy:** "Don't just write code; understand how the CPU executes it."
 
-## 42 Curriculum Progression
+## 42 Curriculum progression
 
 Here is a roadmap of the technical milestones I am achieving during my training:
 
@@ -25,7 +25,7 @@ Here is a roadmap of the technical milestones I am achieving during my training:
 
 ---
 
-## Technical Toolbox
+## Technical toolbox
 
 * **Languages:** `C`, `C++`
 * **Systems & Tools:** `Linux`, `Git`, `Makefile`, `Docker`, `Bash`
