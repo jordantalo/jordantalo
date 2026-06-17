@@ -35,4 +35,4 @@ Here is a roadmap of the technical milestones I am achieving during my training:
 
 ## Connect with me
 
-* **LinkedIn:** [Profile](https://fr.linkedin.com/in/jordantalobre)
+* **LinkedIn:** [My profile here](https://fr.linkedin.com/in/jordantalobre)
