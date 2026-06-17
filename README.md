@@ -1,6 +1,6 @@
-# Hi there, I'm [Ton Prénom/Nom] 👋
+# Hi there, I'm Jordan TALOBRE 👋
 
-### 🚀 Engineer & software Developer | deep Diving into C & Systems Programming at 42
+### 🚀 Engineer & software developer | deep diving into C & systems programming at 42
 
 Graduated from **Centrale Marseille** (a French top-tier Engineering School), I have a strong background in mathematics, fluid mechanics, and system modeling. Driven by a passion for understanding computers from the ground up, I am currently fast-tracking my skills in low-level development through the rigorous **42 curriculum**.
 
